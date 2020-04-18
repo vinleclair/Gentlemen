@@ -19,6 +19,7 @@ Visit https://barbier-gentlemen.herokuapp.com/
 * When booking additional appointments, the client details form name and email field show required error message before input is given.
 
 # Features to add
+
 * Users
 * Admin page to manage barbers and services
 * Google Calendar integration
