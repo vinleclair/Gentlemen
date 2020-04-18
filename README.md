@@ -16,4 +16,4 @@ Visit https://barbier-gentlemen.herokuapp.com/
 
 # Known issues
 
-When booking additional appointments, the client details form name and email field show required error message before input is given.
+* When booking additional appointments, the client details form name and email field show required error message before input is given.
